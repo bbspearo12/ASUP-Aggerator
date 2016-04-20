@@ -1,4 +1,4 @@
-### LogStash setup
+### Logstash setup
 
 Primary aim of the logstash set-up is to:
 
