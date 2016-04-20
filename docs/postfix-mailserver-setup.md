@@ -39,5 +39,6 @@ apt-get install mailutils
 
 Send test email
 ```
-mail -s "Hello world - 2" asup-alerts@localhost <<< "Live long and prosper, yet again"
+mail -s "Hello world" root@localhost <<< "Live long and prosper"
 ```
+Email should now appear in `/var/mail/root`
